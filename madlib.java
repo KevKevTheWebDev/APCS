@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.io.*;
 
-public class apples{
+public class madlib{
 	public static void main(String args[]){
    Scanner words = new Scanner(System.in);
    
