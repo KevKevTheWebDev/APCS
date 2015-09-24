@@ -28,7 +28,7 @@ public class sortofclock{
       System.out.println(minutes + " minutes");
       System.out.println(seconds + " seconds");
       
-      //SECOND WITH MODULE
+     //I DID IT TWICE, FIRST IS WITHOUT MODULE, SECOND IS WITH USING MODULE.
       
      int tinS = tinput.nextInt();
      int thours;
